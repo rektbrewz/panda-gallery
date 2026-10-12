@@ -1,0 +1,2 @@
+# Put your own meme files here (owner content).
+# Then reference them in src/data/memes.json as "/memes/your-file.jpg"
