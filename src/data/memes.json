@@ -64,5 +64,27 @@
     "created_at": "2026-10-13T00:00:00.000Z",
     "credit_name": "veenty444",
     "credit_url": "https://x.com/veenty444/"
+  },
+  {
+    "id": "panda-kick",
+    "name": "Panda Kick",
+    "description": "A martial-arts panda lands a flying kick on a bear in a dramatic market showdown.",
+    "media_url": "/memes/panda-kick.png",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-13T00:00:00.000Z",
+    "credit_name": "GatitoMatero",
+    "credit_url": "https://x.com/GatitoMatero"
+  },
+  {
+    "id": "panda-punch",
+    "name": "Panda Punch",
+    "description": "A determined panda throws a powerful punch at a towering bear.",
+    "media_url": "/memes/panda-punch.png",
+    "media_type": "image",
+    "thumbnail_url": null,
+    "created_at": "2026-10-13T00:00:00.000Z",
+    "credit_name": "GatitoMatero",
+    "credit_url": "https://x.com/GatitoMatero"
   }
 ]
